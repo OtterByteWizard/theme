@@ -1,0 +1,19 @@
+{
+  "name": "otter-theme",
+  "author": "otter-company",
+  "dark": true,
+  "editorScheme": "/otter.xml",
+  "colors": {
+    "primaryGreen": "#20c20e",
+    "darkBlack": "#000000"
+  },
+  "ui": {
+    "*": {
+      "background": "darkBlack",
+      "inactiveBackground": "darkBlack",
+      "activeBackground": "darkBlack",
+      "selectionBackground": "#a0a0a0",
+      "selectionInactiveBackground": "#0b293f"
+    }
+  }
+}
